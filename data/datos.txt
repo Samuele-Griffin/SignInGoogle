@@ -1,0 +1,18 @@
+            OAuth:
+
+Id: 625335287082-dhkmt221i0eeo58esm579m0r1738e8dr.apps.googleusercontent.com
+
+Secret: PK6FAEUHPjCNK_6IXhvQZ_FK
+
+            Clave API:
+
+AIzaSyAyF3Bv56T1c0fohILUs6ANMgZsL59lL5c
+
+            OAuth: (Alternativo)
+
+Id: 625335287082-fpu4j9q19nvfpr9fddbknve5ovgv4odf.apps.googleusercontent.com
+
+Secret: nw11V4GCCPGuBwbOrDuwRZOl
+
+
+
